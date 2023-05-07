@@ -1,4 +1,4 @@
-# Tesla Car Sales Dashboard
+# Tesla Car Sales SQL Report
 <br>
 
 ## Data Source: [Here](https://github.com/VictorOluniyi/Sales-Performance-Dashboard)
