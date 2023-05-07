@@ -1,4 +1,15 @@
 
+# Project Objective
+
+## The objective of this report is to provide valuable insights that will help Tesla's management plan better for future production. 
+
+## This report highlights the key attributes of the data, including model, period, country, purchase_type, version, price, and gross profit.
+
+<br />
+
+
+
+
 <h1 align="center"> 🛠️ Research Questions </h1>
 <br />
 
